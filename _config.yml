@@ -2,7 +2,7 @@
 name: "Memoirs"
 title: "Memoirs"
 description: "Chantry Close Residents Association"
-logo: 'assets/images/cca-logo.webp'
+logo: 'assets/images/cca_logo.webp'
 favicon: 'assets/images/logo.png'
 baseurl: /cca-website-test
 google_analytics: 'UA-xxxxxxxx-1'

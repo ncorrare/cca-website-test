@@ -1,4 +1,4 @@
-<img width="843" alt="image" src="https://github.com/ncorrare/cca-website-test/assets/1202900/2068c71b-4fe6-4509-8fc7-37767ec08593">---
+---
 layout: page
 title: About us 
 permalink: /about

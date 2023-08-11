@@ -3,7 +3,7 @@ layout: page
 title: About us 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/25_chantry_main2.jpg
 imageshadow: true
 ---
 
